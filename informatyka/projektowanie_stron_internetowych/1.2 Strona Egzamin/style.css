@@ -1,0 +1,42 @@
+:root {
+    font-family: tahoma;
+}
+
+a {
+    color: #ffd87d;
+}
+
+header, footer {
+    text-align: center;
+}
+
+header, footer, #lewy {
+    width: 30%;
+    background-color: #af8c4b;
+}
+
+#lewy, #prawy {
+    height: 500px;
+}
+
+#lewy {
+    text-align: right;
+}
+
+#lewy hr {
+    color: #ffd87e;
+}
+
+#lewy :is(ul, ol) {
+    list-style-type: circle;
+}
+
+#prawy {
+    width: 70%;
+    background-color: #ffd87e;
+}
+
+table, td, th {
+    border: 1px dotted #000;
+    border-collapse: collapse;
+}
