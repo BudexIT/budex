@@ -3,7 +3,7 @@
 <?php
     $liczba = 7;
 
-    if ($liczba = 8) {
+    if ($liczba == 8) {
         echo "liczba: " . $liczba . ", jest równa osiem";
     } else {
         echo "liczba: " . $liczba . ", jest różna od ośmiu";
