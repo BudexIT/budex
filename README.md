@@ -1,1 +1,1 @@
-# szko-a
+# Materiały do nauki szkolnej 🎉
